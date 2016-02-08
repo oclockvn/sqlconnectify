@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConnectify", "SqlConnectify\SqlConnectify.csproj", "{9476AD21-9202-49B6-AF51-93C470D85B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConnectify.Client", "SqlConnectify.Client\SqlConnectify.Client.csproj", "{951EDEEF-301A-4991-8C1C-456F77D07F59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlConnectify.Test", "SqlConnectify.Test\SqlConnectify.Test.csproj", "{B9E29195-77D8-48EE-A67B-159D3C22A530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9476AD21-9202-49B6-AF51-93C470D85B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9476AD21-9202-49B6-AF51-93C470D85B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9476AD21-9202-49B6-AF51-93C470D85B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9476AD21-9202-49B6-AF51-93C470D85B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951EDEEF-301A-4991-8C1C-456F77D07F59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951EDEEF-301A-4991-8C1C-456F77D07F59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951EDEEF-301A-4991-8C1C-456F77D07F59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951EDEEF-301A-4991-8C1C-456F77D07F59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E29195-77D8-48EE-A67B-159D3C22A530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E29195-77D8-48EE-A67B-159D3C22A530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E29195-77D8-48EE-A67B-159D3C22A530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E29195-77D8-48EE-A67B-159D3C22A530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
